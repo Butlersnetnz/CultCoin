@@ -1,9 +1,9 @@
-<b>LitecoinPlus V3</b> <br>
+<b>CultCoin v0.1</b> <br>
 <br>
-Aug 2017
-  re-enabled PoW
-  corrected PoS rate to 15%
-  increased MAX_MONEY to 4,000,000
+Jan 2018
+  PoW
+  PoS rate to 15%
+  MAX_MONEY 4,000,000
 <br>
 Pow starting block 215,000<br>
 start reward at 2 and reduce by .25<br>
@@ -20,10 +20,10 @@ then the final reduction to .25 BCF<br>
 That takes us roughly to half way to the cap of 4,000,000<br>
 <br>
 <br>
-web site http://litecoinplus.co/<br>
-explorer http://lcp.altcoinwarz.com/<br>
-windows-QT https://drive.google.com/open?id=0B1cnD3W8c0jtd3lzbVNYamJzR1k<br>
-BitcoinTalk https://bitcointalk.org/index.php?topic=599095.780<br>
+web site: coming soon...<br>
+explorer: coming soon.../<br>
+windows-QT coming soon...<br>
+BitcoinTalk comin soon...<br>
 
 
 
